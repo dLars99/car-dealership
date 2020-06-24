@@ -32,6 +32,3 @@ for (const eachMonth in monthlySales) {
 
 answerPane.innerHTML += `<p>Highest month of sales: ${highestMonth.month}</p>`
 
-// Sum all sales for each month
-
-
